@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom"
 
 const FoodDetails = () => {
   const navigate = useNavigate()
+  
   return (
     <div className="flex flex-col min-h-screen bg-white">
       {/* Header */}
